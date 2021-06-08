@@ -1,0 +1,1 @@
+az deployment group create --name firstbicep -g azuremon-aztt1-rg -f main.bicep --parameters main.parameters.json
